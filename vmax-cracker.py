@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 """
 Simple script for brute-forcing VMAX Web Viewer credentials
+Copyright (C) 2019 Thomas Valadez (@tvldz)
 """
 import sys
 import argparse
