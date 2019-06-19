@@ -1,6 +1,8 @@
 #! /usr/bin/env python
 """
 Simple script for brute-forcing VMAX Web Viewer credentials
+https://digital-watchdog.com/productdetail/VMAX/
+
 Copyright (C) 2019 Thomas Valadez (@tvldz)
 """
 import sys
